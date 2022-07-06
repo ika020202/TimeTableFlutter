@@ -5,7 +5,7 @@ import 'package:mochily_timetable/providers.dart';
 
 class ColorButton extends ConsumerWidget {
   final Color someColor;
-
+  final Debug ;
   ColorButton({
     Key? key,
     required this.someColor,
